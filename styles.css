@@ -1,0 +1,30 @@
+body {
+
+    background-color: #d4c198;
+    font-family: Verdana sans-serif;
+    color: #303030;
+}
+
+h1 {
+
+    font-weight: bold;
+    background-color: #00a2ff86;
+    text-align: center;
+    font-size: 35px;
+}
+
+ul:not(.ingredients) {
+
+    background-color: #afafaf;
+}
+
+a {
+
+    color: #303030;
+}
+
+.image-menu {
+
+    height: auto;
+    width: 200px;
+}
